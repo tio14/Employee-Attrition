@@ -1,0 +1,7 @@
+pandas
+numpy 
+scipy 
+matplotlib 
+seaborn 
+sqlalchemy 
+tensorflow==2.16.1

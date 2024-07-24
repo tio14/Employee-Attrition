@@ -1,0 +1,56 @@
+Qualitative Ordinal column:
+- Education
+- EnvironmentSatisfaction
+- JobInvolvement
+- JobSatisfaction
+- PerformanceRating
+- RelationshipSatisfaction
+- WorklifeBalance
+
+Qualitative - Bar Chart (significant):
+- Business Travel: Workers who Travel Frequently have a relatively high attrition rate
+- Department: Research & Development is having a low attrition rate, while sales doing vice versa
+- Education Field: Life Sciences and Medical have lower attrition rate, while Marketing and Technical degree is doing vice versa
+- Job Role: Sales Representative have a high attrition rate. The variation are quite high
+- Marital Status: Single is having a relatively high attrition rate
+- Over Time: People who worked overtime have a high attrition rate
+- Environment Satisfaction: the Higher the number, the lower the attrition rate 
+- Job Satisfaction: the Higher the number, the lower the attrition rate
+- Relationship Satisfaction: Low value (lesser than 2) have a relatively high attrition rate
+
+Quantitative - Box Plot (Significant):
+- Age: Young employee attrition rate is high
+- Daily Rate, Hourly Rate, Monthly Income: Low payment attrition rate is high
+- Distance From Home: Higher the value, higher the attrition chance
+- Job Level: Lower the value, higher the attrition chance
+- Num Companies Worked: High value (greater than 4) probably will do attrition
+- Total Working Years: Lower the value, higher the attrition chance. But has so many outliers
+- Years at Company: Lower the value, higher the attrition chance. But has so many outliers
+- Years in Current Role: Lower the value, higher the attrition chance. But has some outliers
+- Years with Current Manager: Lower the value, higher the attrition chance
+
+High numerical columns Correlation:
+- Job Level - Monthly Income (1.0)
+- Percent Salary Hike - Performance Rating (0.8)
+- Total Working Years - Age (0.7)
+- Total Working Years - Job Level (0.8)
+- Total Working Years - Monthly Income (0.8)
+- Years at Company - Total Working Years (0.6)
+- Years in Current Role - Years at Company (0.8)
+- Years Since Last Promotion - Years at Company (0.6)
+- Years Since Last Promotion - Years in Current Role (0.6)
+- Years with Current Manager - Years at Company (0.8)
+- Years with Current Manager - Years in Current Role (0.7)
+
+Quantitative - Statistical Test (significant):
+- TotalWorkingYears
+- Age
+- JobLevel
+- StockOptionLevel
+- MonthlyIncome
+- YearsInCurrentRole
+- YearsWithCurrManager
+- YearsAtCompany
+- DistanceFromHome
+
+Dashboard Mockup:
